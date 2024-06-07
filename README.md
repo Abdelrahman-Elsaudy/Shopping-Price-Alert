@@ -2,7 +2,7 @@
 
 ---
 
-- This tool emails you when the price of a product you are interested in drops to a certain price:
+- This tool emails you when the price of a product you are interested in drops to a certain price you set:
 
 ![email_alert](https://github.com/Abdelrahman-Elsaudy/NLP-Workout-Tracker-on-Google-Sheets/assets/158151388/7cd48bc8-1151-4005-b49c-c9dbd1315d81)
 
